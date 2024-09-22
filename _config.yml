@@ -27,7 +27,9 @@ url: "https://using.opensourceworks.org" # the base hostname & protocol for your
 github_username:  opensourceworks-org
 
 # Build settings
-theme: minima-dark
+theme: minima
+minima:
+  skin: dark
 plugins:
   - jekyll-feed
 
