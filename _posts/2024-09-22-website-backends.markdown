@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Website Backends"
-date:   2024-09-22 20:52:10 +0200
+date:   2024-09-22 22:52:10 +0200
 categories: code backend programming languages
 ---
 ## So many new general purpose programming languages
@@ -9,7 +9,7 @@ There's much ado about programming languages lately.  [LLVM](https://llvm.org/) 
 
 ## The start
 To learn a new programming language, they say you should build a go-to project. Something you're familiar with. But also, something which fits in the language's capabilities.  I've been wanting to build a portfolio site for a very long time, just never had a reason or the will to get at it.
-Playing around with htmx at my current professional project, a backend seemed like a good fit.  
+Playing around with htmx at my current professional project, [a backend](https://flexworks.eu) seemed like a good fit.  
 
 ## The environment
 Anything frontend is htmx.  Static content is fetched by the backend from a static location on an openresty server, which I already wanted to use as reverse proxy (ssl offloading, cache, etc). Static components like js, css and images are served directly from a /static endpoint on the reverse proxy.
