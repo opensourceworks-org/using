@@ -13,7 +13,7 @@ Initially, I wanted to get a feel for some of the new cool general purpose progr
 
 ## Pull the plug (partially)
 
-I think I got a pretty good basic understanding of the languages by now.  Maintaining 5 different backends is impossible with a full time job.
+I think I got a pretty good basic understanding of the languages by now.  Maintaining 5 different backends is impossible with a full time job, family, a dozen other hobbies and interests...
 Next, I'll post my findings for each of them (spoiler: they're all great).  For the [portfolio website](https://flexworks.eu), I'll stick to Rust, as that currently, and unfortunately, is the only language I'm not using professionally.
 
 I could have used C/C++ with [facil.io](https://facil.io/) as the reference instead of python, since all the others are compiled too, but I think python is more popular than C/C++, at least for this kind of stuff.  
