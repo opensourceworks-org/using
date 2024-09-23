@@ -135,5 +135,5 @@ This is not a performance benchmark (per se), so the focus is on using whatever 
 | [Python](https://www.python.org/) | [FastAPI](https://fastapi.tiangolo.com/)/[Uvicorn](https://www.uvicorn.org/) | [Jinja2](https://jinja.palletsprojects.com/) |
 | [C#](https://learn.microsoft.com/dotnet/csharp/) | [.NETCore8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | [Razor Pages](https://learn.microsoft.com/aspnet/core/razor-pages/) |
 | [Rust](https://www.rust-lang.org/) | [Axum](https://github.com/tokio-rs/axum) | [Askama](https://github.com/djc/askama) |
-| [Zig](https://ziglang.org/) | [Zap](https://github.com/Snektron/zigzap) | [Mustache](https://mustache.github.io/) |
+| [Zig](https://ziglang.org/) | [Zap](https://github.com/zigzap/zap) | [Mustache](https://mustache.github.io/) |
 
