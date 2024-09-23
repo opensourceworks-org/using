@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Jeroen. Trying to keep things interesting and working in different area's in Information Technology: backend, data, infrastructure/ops, cloud, monitoring, security, automation ...  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Some things I'm currently working on:
+- Xymon rewrite (Zig)
+- [deltalake-tools](https://pypi.org/project/deltalake-tools/): A set of easy to use commands for deltalake, with a command line interface. (Python, rewriting in Rust)
+- [NotMongo](https://notmongo.opensourceworks.org/): A Maybe DuckDB extension for json APIs (C++)
 
 
-[jekyll-organization]: https://github.com/jekyll
+[jeroen](mailto:jeroen@flexworks.eu)
