@@ -33,3 +33,7 @@ Then there was the cpu throttling. Using btop showed that at load the cpus were 
 ## Monitoring
 
 With the 1000W power supply, 7 hdd spindles and 2 power hungry cpus, I need to keep an eye on power consumption. So prometheus/grafana for monitoring. But monitoring what? Well, a hombli/Tuya smart socket. Wrote a prometheus exporter for W/V/A and off we went. Additionally, built an intelligent switch to turn off and on the pc, as it's also used as plex media user for better quality than the continuously running raspberry pi (web servers, plex, ..). So a raspberry pi zero, LCD display, toggle switch and some openscad/3D printing later, i had a smart switch.
+
+link to smart switch project
+link to prometheus exporter project
+link to duckdb dbgen project
